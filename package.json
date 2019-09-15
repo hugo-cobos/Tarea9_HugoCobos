@@ -1,0 +1,16 @@
+{
+    "name": "tarea9-hugocobos",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "server": "^1.0.19"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Hugo Cobos",
+    "license": "ISC"
+}
